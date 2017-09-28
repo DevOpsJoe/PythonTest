@@ -1,7 +1,7 @@
 print("hello world")
 print("line 2 - sweet")
 print("this is line 3, very easy stuff!!!!!")
-b=False
+b=True
 if b:
-    print("so much true")
-else:print("very false")
+    print("so much truth")
+else:print("Lies")
