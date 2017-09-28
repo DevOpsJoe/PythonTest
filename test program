@@ -1,0 +1,7 @@
+print("hello world")
+print("line 2")
+print("this is line 3, very easy stuff!!!!!")
+b=False
+if b:
+    print("so true")
+else:print("very false")
